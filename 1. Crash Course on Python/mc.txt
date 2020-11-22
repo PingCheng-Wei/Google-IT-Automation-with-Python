@@ -1,0 +1,702 @@
+McKinsey exists to solve business problems. The consultants
+who succeed at McKinsey love to solve problems.
+As one former EM* put it:
+Problem solving isn’t a thing you do at McKinsey;
+it’s what you do at McKinsey. It’s almost
+as though you approached everything looking
+for ways it could be better, whatever it was. A
+part of you is always asking, “Why is something
+done this way? Is this the best way it can
+be done?” You have to be fundamentally skeptical
+about everything.
+Part One describes how McKinsey thinks about
+business problems. It shows what it means to be factbased,
+structured, and hypothesis-driven. It will tell you
+the McKinsey way to approach a business problem, and
+offer you a few choice rules to live by when trying to
+solve them.
+*Engagement manager. The EM is in charge of the day-to-day work of a McKinsey
+team.
+
+
+
+
+1
+BUILDING THE SOLUTION
+Like all things McKinsey, the Firm’s problem-solving process
+has three major attributes. When team members meet for the
+first time to discuss their client’s problem, they know that
+their solution will be
+• Fact-based
+• Rigidly structured
+• Hypothesis-driven*
+In this chapter, you will learn exactly what these attributes
+mean and how you can apply them in your business.
+3
+*At McKinsey, three is a magic number. Things at the Firm come in threes. Notice that this
+list has three items. Ask a McKinsey-ite a complex question, and you are likely to hear
+“There are three reasons. . .” Then, of course (as you will learn later in the book) there is the
+true McKinsey hierarchy for consultants—in descending order: client, Firm, you.
+Copyright 1999 Ethan M. Rasiel. Click here for Terms of Use.
+FACTS ARE FRIENDLY
+Facts are the bricks with which you will lay a path to your
+solution and build pillars to support it. Don’t fear the facts.
+Problem solving at the Firm begins with facts. On the first day of
+an engagement, all members of the team comb through stacks of
+articles and internal research documents to gather enough facts to
+illuminate their piece of the problem for the first team meeting.
+Having drawn up an initial hypothesis for the problem, the team
+then races to gather the facts necessary (when put through the
+appropriate analyses) to support or refute it.
+At the start of your time at McKinsey, gathering and analyzing
+facts is your raison d’étre. As one former SEM* observed:
+When you strip away a lot of the high-minded language with
+which McKinsey dresses up its problem-solving process, it
+comes down to very careful, high-quality analysis of the
+components of the problem combined with an aggressive
+attitude toward fact gathering.
+Why are facts so important to the way McKinsey does business?
+There are two reasons. First, facts compensate for lack of
+gut instinct (see “ . . . But Every Client Is Unique” in Chapter 2).
+Most McKinsey-ites are generalists. They know a little about a lot
+of things. As they gain experience and move through the ranks,
+they may come to know a lot about a lot of things. Even at this
+point, however, they will still know less about, say, inventory
+4 Thinking About Business Problems
+*Senior engagement manager. In many ways a junior partner, the SEM is in charge of multiple
+studies and is expected to take a hand in client relations. SEMs get all the stress of partnership
+with less pay.
+management practices for perishable foodstuffs than the folks
+who have been running the distribution operations of Stop &
+Shop for the last 10 years. Gut instinct might tell those folks the
+solution to an inventory management problem in 10 seconds
+(although they still would be wise to check the facts); McKinsey
+will go to the facts first.
+Second, facts bridge the credibility gap. When she joins the
+Firm, the typical associate* (at least in the United States) will have
+graduated near the top of her college class, spent two or three years
+working for a large company, then received her MBA from a top
+business school. She will be in her mid- to late twenties. On her
+first engagement she may have to present her analysis to the CEO
+of a Fortune 50 company, who will not give much credence to
+what some newly minted, 27-year-old MBA has to say—unless she
+has an overwhelming weight of facts to back her up. This is just
+as true for a junior executive presenting a proposal to his boss.
+Despite (or possibly because of) the power of facts, many businesspeople
+fear them. Perhaps they are afraid that if they look too
+closely at the facts, they—or someone above them—might not like
+what they see. Maybe they think that if they don’t look, the nasty
+facts will go away—but they won’t. Hiding from the facts is a prescription
+for failure—eventually, truth will out. You must not fear
+the facts. Hunt for them, use them, but don’t fear them.
+Building the Solution 5
+*Associate: An entry-level McKinsey consultant, usually with an MBA. Technically, every
+consultant who has not made partner, even the hottest SEM, is still an associate of the Firm.
+FEEL FREE TO BE MECE
+To structure your thinking when solving business problems
+(or anything, for that matter), you must be complete while
+avoiding confusion and overlap.
+MECE (pronounced “me-see”) stands for “mutually exclusive, collectively
+exhaustive” and it is a sine qua non of the problem-solving
+process at McKinsey. MECE gets pounded into every new associate’s
+head from the moment of entering the Firm. Every document
+(including internal memos), every presentation, every e-mail and
+voice mail produced by a McKinsey-ite is supposed to be MECE.
+Ask any number of McKinsey alumni what they remember most
+about the way the Firm solves problems and they will tell you,
+“MECE, MECE, MECE.”
+MECE structures your thinking with maximum clarity (hence
+minimum confusion) and maximum completeness. MECE starts at
+the top level of your solution—the list of issues making up the problem
+you have to solve. When you think you have determined the
+issues, take a hard look at them. Is each one a separate and distinct
+issue? If so, then your issue list is mutually exclusive. Does every
+aspect of the problem come under one (and only one) of these
+issues—that is, have you thought of everything? If so, then your issues
+are collectively exhaustive. Suppose your team is working on a study
+for that famous American manufacturing firm Acme Widgets. The
+problem you face is “We need to sell more widgets.” Your team might
+come up with a list of the following ways to increase widget sales:
+• Changing the way we sell our widgets to retail outlets.
+• Improving the way we market our widgets to consumers.
+• Reducing the unit cost of our widgets.
+6 Thinking About Business Problems
+If this list looks rather generic, that’s fine; we will talk about
+moving down a level of detail in the next section. What matters is
+that the list is MECE.
+Suppose you add another item, say, “Reengineering our widget
+production process.” How does that fit with the three issues you
+already have? This is certainly an important issue, but it isn’t a
+fourth point alongside the others. It falls under “Reducing the unit
+cost,” along with other subissues such as “Leveraging our distribution
+system” and “Improving our inventory management.” Why?
+Because all these are ways to reduce the unit cost of widgets.
+Putting any (or all) of them with the other three issues on the list
+would cause an overlap. The items in the list would no longer be
+mutually exclusive. Overlap represents muddled thinking by the
+writer and leads to confusion for the reader.
+Once you have a list in which all the items are separate and
+distinct (i.e., mutually exclusive), you have to check that it also
+includes every issue or item relevant to the problem (i.e., it is collectively
+exhaustive). Go back for a moment to “Reengineering
+our widget production process.” You put this under “Reducing
+the unit cost.” Now one of your team members says, “We should
+think about ways to improve widget quality through the production
+process.”
+She’s right. Does this mean you should go back to having
+reengineering as an issue in its own right? No, but you should
+refine your list to include, under “Reducing unit cost,” the subissue
+“Reengineering the production process to reduce unit cost,”
+and, under “Improving the way we market . . . ,” the subissue
+“Reengineering the production process to improve widget quality.”
+Now you have something that looks like this:
+• Changing the way we sell our widgets to retail outlets.
+• Improving the way we market our widgets to consumers.
+Building the Solution 7
+–Reengineering the production process to improve widget
+quality.
+• Reducing the unit cost of our widgets.
+–Reengineering the production process to reduce unit cost.
+Suppose your team has come up with some interesting ideas
+that don’t fit under the main issues. What then? You could ignore
+those points, but that wouldn’t help Acme. You could make them
+issues in their own right, but then you would have too many issues.
+A good McKinsey issue list contains neither fewer than two nor
+more than five top-line issues (of course, three is best).
+There is a solution to this dilemma—the magical category
+“Other Issues.” If you can’t figure out where to put those two or
+three brilliant ideas, there is always Other Issues. There is a caveat,
+however. Avoid using Other Issues in your top-line list—it looks out
+of place. It’s fine lumped in among a bunch of subissues, but on the
+first slide of a big presentation, it sticks out. So try a little harder to
+fit those brilliant ideas into your top-line issues. Chances are you
+can. Still, if all else fails, Other Issues will help you stay MECE.
+SOLVE THE PROBLEM AT THE FIRST
+MEETING—THE INITIAL HYPOTHESIS
+Solving a complex problem is like embarking on a long journey.
+The initial hypothesis is your problem-solving map.
+The initial hypothesis (IH), the third pillar of the McKinsey problem-
+solving process, is the most difficult to explain. To make the
+explanation easier for you (and me), I will break this section into
+three parts:
+8 Thinking About Business Problems
+• Defining the initial hypothesis.
+• Generating the initial hypothesis.
+• Testing the initial hypothesis.
+DEFINING THE INITIAL HYPOTHESIS
+The essence of the initial hypothesis is “Figure out the solution to
+the problem before you start.” This seems counterintuitive, yet you
+do it all the time.
+Suppose you have to drive to a restaurant in a part of town you
+don’t know. You know you have to make the third left off Smith
+Street and then take the first right; it’s just after that corner. You
+know how to get to Smith Street; you’ll just follow your directions
+from there. Congratulations, you have an initial hypothesis.
+Solving business problems is more complicated than finding a
+restaurant, but the initial hypothesis works the same way. It is a road
+map, albeit hastily sketched, to take you from problem to solution. If
+your IH is correct, then solving the problem means filling in the details
+of the map through factual analysis.
+Let’s return to Acme Widgets from the last section. You and your
+team must find a way to increase sales at the widget business unit.
+After you’ve brainstormed using your knowledge of the widget business,
+but before you’ve spent a lot of time gathering and analyzing
+the facts, you might come up with the following top-line IH:
+We can increase widget sales by:
+• Changing the way we sell our widgets to retail outlets.
+• Improving the way we market our widgets to consumers.
+• Reducing the unit cost of our widgets.
+As I will show in the next section, you would then take each issue
+down to another level or two of detail to determine which analyses
+you need in order to prove or disprove each hypothesis.
+Remember that a hypothesis is merely a theory to be proved
+Building the Solution 9
+or disproved. It is not the answer. If your IH is correct, then, a few
+months down the road, it will be the first slide in your presentation.
+If it turns out to be wrong, then, by proving it wrong, you will
+have enough information to move toward the right answer. By
+putting your IH down on paper, and determining how you can
+prove or disprove it, you have set up a road map that you can follow
+to an eventual proved solution.
+GENERATING THE INITIAL HYPOTHESIS
+The IH emerges from the combination of facts and structure. Therefore,
+as the first step in generating an IH, you must start with the
+facts. Remember, however, that you don’t want to do a lot of digging
+around for information before you know where to dig. One
+former McKinsey SEM had a good approach for generating IHs:
+At the start of an engagement, I would just try to digest as
+much of our fact base as possible. I would sit down with the
+trade publications in that industry for an hour or two—not
+so much to gather facts as to absorb something of the flavor
+of that industry: what the jargon is, what the current
+industry issues are. I would especially seek out people in the
+Firm who knew about this particular industry. That was the
+quickest, most efficient way to get up to speed.
+When generating an initial hypothesis, you don’t need all the
+facts, just enough to have a good overview of the industry and the
+problem. If the problem is in your own business, you may already
+have the facts in your head. That’s great, but facts are not enough.
+You have to apply structure to them.
+To structure your IH begin by breaking the problem into its
+components—the key drivers (see “Find the Key Drivers,” in
+Chapter 3). Next, make an actionable recommendation regarding
+each driver. This is extremely important. Suppose your business’s
+10 Thinking About Business Problems
+profits are greatly affected by the weather; in fact, it is the key
+determinant of profits in a given quarter. “We have to pray for
+good weather” is not an actionable recommendation. On the other
+hand, “We must reduce our vulnerability to changes in the
+weather” is an actionable, top-line recommendation.
+For your next step, you must take each top-line recommendation
+and break it down to the level of issues. If a given recommendation
+is correct, what issues does it raise? Consider the likely
+answers to each issue. Then go down another level. For each issue,
+what analyses would you need to make to prove or disprove your
+hypothesis? With a little experience, and a lot of debate within
+your team, you should get a good sense of what is provable and
+what is not. This will help you avoid blind alleys.
+In the Acme Widgets problem, suppose your team decided that
+the key drivers were the sales force, the consumer marketing strategy,
+and production costs. You then came up with a list of actionable,
+top-line recommendations as your initial hypothesis:
+We can increase widget sales by:
+• Changing the way we sell our widgets to retail outlets.
+• Improving the way we market our widgets to consumers.
+• Reducing the unit cost of our widgets.
+Let’s begin with a closer look at the sales force. It’s organized geographically
+(Northeast, Mid-Atlantic, Southeast, etc.) and sells primarily
+to three types of retail outlets: superstores, department
+stores, and specialty stores. The team believes that the sales force
+ought to be organized by customer type—that’s one issue.
+What analyses could prove or disprove that belief? You could
+break out the sales by customer type for each region. If penetration
+of superstores in the Northeast is higher than in any other
+region and higher than for the other types of retail outlets, find
+out why. When you talk to the Northeast sales reps, you might
+Building the Solution 11
+find that they have a better feel for superstores than any other
+sales team. What if they were put in charge of all superstores
+across the country and achieved the same penetration? What
+would that mean for widget sales?
+The end product of this exercise is what McKinsey calls the issue
+tree. In other words, you start with your initial hypothesis and
+branch out at each issue. The result looks like the figure below.
+When you’ve completed your issue tree, you have your problem-
+solving map. That’s the easy part. The difficult part will come
+when you have to dig deep to prove your hypothesis.
+12 Thinking About Business Problems
+Change
+Sales
+Strategy
+Sales Force
+Organization
+Sales Force
+Skill Base
+Promotion
+Strategy
+Product Quality
+Packaging
+Consumer
+Advertising
+Strategy
+Raw Materials
+Sourcing
+Production Process
+Distribution System
+Improve
+Marketing
+Strategy
+Reduce
+Unit Cost
+Increase
+Widget
+Sales
+ISSUE TREE FOR ACME WIDGETS
+TESTING THE INITIAL HYPOTHESIS
+Before you take your problem-solving map out on the road, you
+want (forgive the mixed metaphor) to kick the tires on it. Test
+it. Is it the best possible hypothesis you could devise, given what
+you know about the industry and your client or company? Have
+you thought about all the issues? Have you considered all the
+drivers of the problem? Are all your recommendations actionable
+and provable?
+When I discussed generating an IH, I used the phrase “your
+team” rather than “you.” My experience at the Firm (and that
+of the many McKinsey alumni I interviewed for this book) taught
+me that IHs produced by teams are much stronger than those
+produced by individuals. Why? Most of us are poor critics of our
+own thinking. We need others to pick apart our ideas. A team of
+three or four bright individuals is an excellent vehicle for that.
+So when your team meets to come up with an IH let a thousand
+flowers bloom. Everyone should have his or her own ideas
+and initial hypotheses. Everyone should be prepared to push a
+teammate’s thinking and test each new idea. If you are the team
+leader, you should try to be the thought leader too. Try to take a
+different approach from whatever has just been said. Ask, “What
+if we change this? What if we push that? How about looking at it
+this way?” The process involves shooting a certain amount of
+bull. That’s OK, have fun—as long as it pushes your thinking.
+(For more ideas and techniques to push your team’s thinking, see
+Chapter 9.)
+Building the Solution 13
+This page intentionally left blank.
+2
+DEVELOPING AN APPROACH
+Just knowing the essence of the McKinsey problem-solving
+process does not mean you can now go forth and conquer
+the business world by being fact-based, structured, and
+hypothesis-driven. No two business problems are identical;
+you must figure out how to approach each problem in order
+to devise the best solution for it.
+In this chapter, I will explain how McKinsey-ites
+approach business problems and apply the McKinsey problem-
+solving process to maximum effect.
+15
+Copyright 1999 Ethan M. Rasiel. Click here for Terms of Use.
+THE PROBLEM IS NOT ALWAYS THE PROBLEM
+Sometimes a business problem will land on your desk and
+you will be told to solve it. Fair enough. But before you go
+rushing off in any particular direction, make sure you’re solving
+the right problem—it may not be the one you were given.
+A McKinsey alumnus with a scientific background told me that
+business problem solving is organic and complex, like medicine.
+A patient will come into a doctor’s office and say that he thinks
+he has the flu. He will tell the doctor about his symptoms: scratchy
+throat, achy head, and runny nose. The doctor will not immediately
+trust the patient’s conclusion. She will take the patient’s history,
+ask some probing questions, and then make her diagnosis.
+The patient may have the flu, or a cold, or something more serious,
+but the doctor will not rely on the patient to diagnose himself.
+At McKinsey, we found that clients were often no better at
+diagnosing themselves than a doctor’s patients. Sometimes, problems
+would come to us in extremely vague formulations. In my
+first study at the Firm, our team’s mission was to help a New York
+investment bank “increase profitability”—the business equivalent
+of a patient telling the doctor “I don’t feel well.” In another case,
+a McKinsey team went in to evaluate expansion opportunities for
+a division of a manufacturing company. After a few weeks of gathering
+and analyzing data, the team realized that what the division
+needed was not expansion; it was closure or sell-off.
+The only way to figure out if the problem you have been given
+is the real problem is to dig deeper. Get facts. Ask questions. Poke
+around. It usually does not take very long to figure out if you are
+heading down the right path, and the time you take up front will
+16 Thinking About Business Problems
+more than make up for itself in time you don’t waste further down
+the line.
+What do you do when you are convinced you are working on
+the wrong problem? When a doctor thinks that a patient’s minor
+symptoms mask something more serious, she will tell her patient,
+“Mr. Jones, I can treat your headache, but I think it’s a symptom of
+something more serious and I’d like to do further tests.” In the
+same way, you should go back to your client, or your boss—whoever
+it was that asked for your input in the first place—and say,
+“You asked me to look at problem X, but the real impact on our
+performance will come from solving problem Y. Now I can solve
+problem X, if that’s what you really want, but I think it’s in our
+interest to focus on Y.” If you have the data to back you up, the
+client can either accept your recommendation or tell you to stay on
+the original problem, but you will have fulfilled your responsibility
+to act in the client’s best interests.
+DON’T REINVENT THE WHEEL (PART 1)
+Most business problems resemble each other more than they
+differ. This means that with a small number of problem-solving
+techniques, you can answer a broad range of questions.
+These techniques may be somewhere in your organization,
+either written down or in the heads of your fellow employees.
+If not, use your experience to develop your own tool kit.
+McKinsey, like every other consulting firm, has developed a number
+of problem-solving methods and given them fancy names:
+Analysis of Value Added, Business Process Redesign, Product-Mar-
+Developing an Approach 17
+ket Scan, and so on. These techniques are immensely powerful.
+They allow McKinsey consultants very rapidly to fit the raw data
+that lands on their desks into a coherent framework and give them
+insights into the nature of the client’s problem. The consultants can
+then focus their thinking on the “drivers” of the problem and start
+working toward a solution.
+We made frequent use of an analytical framework called Forces
+at Work. It proved especially valuable at the start of an engagement
+in helping us look at the likely external pressures on the client. The
+technique involves identifying the client’s suppliers, customers,
+competitors, and possible substitute products. We then list all the
+changes occurring in each of the four categories. What impact—
+positive or negative—could these have on our client? Also, what
+internal changes are affecting the client and the client’s industry?
+Which of these factors could actually cause major changes to the
+way the client designs, manufactures, distributes, sells, and services
+its products?
+Whatever business you’re in, this framework will not only help
+you build a snapshot of your competitive environment, but also
+help you develop a view of how that environment might change.
+Try it. It sounds simple, but it is a powerful way to stimulate your
+thinking about strategic business problems.
+These frameworks really help at the start of the problem-solving
+process. For instance, when I was a second-year associate, I
+joined a team that was helping a major Wall Street investment
+bank reorganize its information technology department. All the
+executives at the bank wanted IT reorganized, but not if it meant
+any changes in the way their computers were supported. The IT
+department was a real mess, with 600 employees, a dozen different
+subdepartments, and a web of reporting relationships that made
+my head spin.
+I (and the rest of the team) hardly knew where to begin. For-
+18 Thinking About Business Problems
+tunately, the Firm had recently developed a new paradigm, called
+Business Process Redesign, that gave us a starting point. The Firm
+was still coming to grips with BPR, and during the study we broke
+new ground for the Firm. It was hard work, but BPR (along with
+a lot of sweat, Chinese food, and late nights) helped us help the
+client force through the reorganization. If we had not had at least
+a starting framework to help us focus our efforts, we might never
+have left the ground.
+. . . BUT EVERY CLIENT IS UNIQUE
+(NO COOKIE-CUTTER SOLUTIONS)
+That there are many similarities between business problems
+does not mean that similar problems have similar solutions.
+You have to validate your initial hypothesis (or your gut)
+with fact-based analysis. This will put you in a much better
+position to get your ideas accepted.
+If all you have is a hammer, then every problem looks like a nail.
+Critics of McKinsey (and management consulting in general) say
+that the Firm bases its solutions on the most current management
+fad—the favorite tool in its intellectual toolbox.
+At the Firm, at least, this is untrue. Fact-based analysis as practiced
+by McKinsey requires hard proof before any recommendations
+are made to clients. Jason Klein, a former SEM at McKinsey
+and now publisher of Field & Stream and Outdoor Life, puts it
+like this:
+People think that the Firm—and management consultants in
+general—have a precanned answer. That is certainly not the
+Developing an Approach 19
+case at McKinsey; if it were, then the Firm would not be as
+successful as it is.
+The tools may be the same from problem to problem,
+but you have to apply them. For instance, in my experience,
+in 8 out of 10 pricing problems the answer turns out to be
+“raise your prices.” If you do the fact-based analysis—
+demand curves, breakeven calculations, budgets—enough
+times, you see almost invariably that firms should be raising
+their prices. But if you automatically say that’s the
+answer, you’ll get into trouble, because you’ll run into an
+instance where the answer is really “lower your prices.”
+As a corollary to avoiding cookie-cutter solutions, be careful
+about blindly trusting your gut. As you gain experience in business,
+as you see and solve more and more problems, you will get a fair
+idea of what works in your industry and what doesn’t. Although
+your gut will often be right, take a hint from former President Reagan:
+“Trust and verify.” As a McKinsey alumnus who now works
+as a merchant banker put it:
+A sharp manager with a lot of business experience can often
+reach the same conclusions as McKinsey—and in a much
+shorter time—by gut instinct, but most executives aren’t that
+good. Because McKinsey focuses so intently on a problem,
+it often produces a more robust solution than even the best
+executive can. Most executives will miss a few things
+because they don’t take the time—they usually don’t have
+the time.
+So, even though your initial instinct may be—and probably is
+—right, take enough time to verify your gut with facts.
+20 Thinking About Business Problems
+DON’T MAKE THE FACTS FIT
+YOUR SOLUTION
+Avoid the temptation to view your initial hypothesis as the
+answer and the problem-solving process as an exercise
+in proving the IH. Keep an open and flexible mind. Don’t
+let a strong initial hypothesis become an excuse for mental
+inflexibility.
+On an engagement for a major insurance company, the EM
+assured his team and the client that the key to restoring the client’s
+profitability was eliminating “leakage”—the acceptance of customer
+claims without adjustment. He assigned a new associate to
+determine the rate of leakage in fire insurance claims over the previous
+three years. As any good McKinsey associate would, this
+young man applied himself tirelessly and diligently to his task. He
+combed through stacks of claims in search of leakage. The result:
+very little leakage, far less than the EM had predicted.
+Rather than take these data for what they were—an indication
+that he needed to reexamine his hypothesis—the EM simply told
+the young associate to look again, this time in auto insurance . . .
+and then in marine insurance . . . and in business insurance.
+Nowhere were the expected rates of leakage to be found.
+One day, the EM was sitting in the team’s on-site HQ looking
+slightly despondent. The team’s main contact at the client poked
+his head around the doorpost. “What’s the matter, Nick?” he said.
+“Not enough leakage for you?”
+The moral of this little tale is that, no matter how brilliant,
+insightful, and original you may feel your initial hypothesis to be,
+you must always be prepared to accept that the facts may prove
+Developing an Approach 21
+you wrong. If they do, adjust to the facts. Don’t try to pound them
+into your framework like square pegs into round holes.
+How do you avoid that trap? The McKinsey way is to take an
+occasional step back from the continual grind of fact gathering and
+analysis and to ask yourself what you have learned over the past
+week (or two weeks, or whatever). How does the new information
+fit into your initial hypothesis? If it doesn’t, how might it
+change that hypothesis? Doing these little reality checks now and
+then could save you from chasing down blind alleys.
+As a final note, I should add that the story, although true, represents
+the exception rather than the rule at McKinsey, at least in
+my experience. And that EM has long since left the Firm.
+MAKE SURE YOUR SOLUTION FITS
+YOUR CLIENT
+The most brilliant solution, backed up by libraries of data
+and promising billions in extra profits, is useless if your client
+or business can’t implement it. Know your client. Know the
+organization’s strengths, weaknesses, and capabilities—what
+management can and cannot do. Tailor your solutions with
+these factors in mind.
+A former McKinsey EM who now works on Wall Street tells
+this story:
+We were doing a cost cutting study for a large financial institution.
+We discovered that they were in the midst of linking
+all their offices—they had several hundred around the
+world—by satellite. This project had begun several years
+22 Thinking About Business Problems
+previously, and they had managed so far to roll it out to
+about half their offices.
+We determined that with currently available technology
+they could do the same thing for a fraction of the cost using
+conventional phone lines. By our calculations, they would
+have saved $170 million on a present value basis.
+We took our findings to the senior manager overseeing
+the engagement, the man who had brought us in to begin
+with, and he said, “Well, that’s terrific. We appreciate that
+it could have saved us a few hundred million dollars, but
+we’ve already started down this road and, politically, it’s just
+too risky. You have to realize that we only have a certain
+amount of energy in the organization and, frankly, we need
+ideas that are bigger than this.”
+At one level, it’s unbelievable that he didn’t accept our
+idea. But on another level, we were coming up with other
+suggestions that would save the organization half a billion or
+a billion dollars. So this was, if not exactly chicken feed, just
+a medium-size payoff for them. It’s a rational response. If I
+can do only three things, I’ll do the three biggest.
+McKinsey hires people with stellar academic records and
+enforces a rigorous discipline in analyzing problems and structuring
+solutions. Because of this, a McKinsey-ite’s (especially a
+new hire’s) first instinct is to go hell for leather after the very
+best solution.
+Unfortunately, when academic ideals meet business realities,
+business realities usually win. Businesses are full of real people,
+with real strengths and weaknesses and limitations. These people
+can do only so much with the finite resources available in their
+organizations. Some things they just cannot do, whether for political
+reasons, lack of resources or inability.
+Developing an Approach 23
+As a consultant, you bear the responsibility for knowing the
+limitations of your client; if your client is your own employer—or
+your own business—that responsibility is doubled. Knowing those
+limitations, you must make sure that any recommendations you
+make fit within them.
+SOMETIMES YOU HAVE TO LET THE
+SOLUTION COME TO YOU
+The McKinsey rules of problem solving, like all rules, have
+their exceptions. You will not be able to form an initial
+hypothesis every time. Sometimes, the client will not know
+what the problem is, just that there is a problem. Other
+times, the scope of your project will be so large—or so
+vague—that starting with an IH will be worthless. Still other
+times, you will be breaking new ground and nothing in your
+experience will point to a solution. Don’t panic! If you get
+your facts together and do your analyses, the solution will
+come to you.
+Hamish McDermott, former EM at the Firm, recounted this story:
+I was on a study where we were trying to improve the performance
+of the foreign exchange business of a major bank;
+we were supposed to reduce costs in the back-office operation
+by 30 percent. I had nothing at that stage that I could
+point to, no initial hypothesis about how to get those costs
+out of the organization. Frankly, we knew very little about
+how the back-office processing worked.
+24 Thinking About Business Problems
+I had to interview the woman in charge of back-office
+processing along with her senior staff. She didn’t mean to be
+unpleasant, although it certainly felt that way, but she came
+right out and said, “You’ve never done this before and you
+know nothing about this business. One of two things is
+going to happen. Either you’ll come back with something
+we don’t agree with, which will necessarily be wrong, or
+you’ll listen to us and come back with what we already
+know, in which case you’ve added no value. We understand
+that you’re here and that you’re working on this, but from
+our point of view it’s a total waste of our time and the
+bank’s money.”
+Still, she gave us the data we asked for. It turned out that
+one product, which represented about 5 percent of their
+business, was producing about 50 percent of their costs. We
+were able to fix that. They’d had no idea this was going on.
+In subsequent stages of the engagement, we were able to
+extend this analysis to other parts of the business and we easily
+exceeded our targets.
+The moral of this story is that an initial hypothesis is not a prerequisite
+for successful problem solving. Having one will help organize
+and forward your thinking, but if you can’t come up with one,
+don’t despair. Any McKinsey-ite will tell you that no business
+problem is immune to the power of fact-based analysis. Put
+together enough facts, combine them with some creative thinking,
+and you will come up with a solution.
+Developing an Approach 25
+SOME PROBLEMS YOU JUST CAN’T SOLVE . . .
+SOLVE THEM ANYWAY
+Eventually, you will run into a brick wall that is tougher than
+your head. Don’t keep pounding; it has no effect on the wall
+and does your head no good.
+My unofficial mentor at McKinsey asked me to work with him on
+what promised to be a fun and exciting study. The client, a major
+financial institution in the midst of reorganizing its investment
+management business, faced severe challenges of heroic dimensions:
+thousands of employees, billions of dollars. The McKinsey
+team included my mentor and my favorite EM. It seemed the perfect
+recipe for an enjoyable, challenging McKinsey engagement.
+The recipe might have been right, but the result left a bad taste
+in our mouths. Factions within the client’s senior management prevented
+us from doing our job. Data we asked for arrived late, or
+in an unusable form or not at all. People we needed to interview
+refused to speak with us. The members of the client team vigorously
+pursued their own agendas at the expense of reaching a solution.
+We spent several uncomfortable months on this study and,
+in the end, had to make what recommendations we could, “declare
+victory,” and get out.
+My team’s experience was hardly unique in the history of the
+Firm. The road of problem solving is often strewn with obstacles.
+Data to prove your hypothesis may be missing or bad. Sometimes
+businesses realize too late that they have a problem; by the time
+McKinsey, or anyone, addresses the problem, the business is
+already doomed.
+The biggest obstacle—the troll guarding the bridge—is politics.
+26 Thinking About Business Problems
+The first thing to understand about politics—and how it can help
+or hinder you from doing your job—is that businesses are full of
+real people. When you look at the boxes on an organization chart,
+you are really looking at people. When you move those boxes
+around, you change someone’s life. As one former McKinsey EM
+remarked, “Sometimes change management means just that—
+changing management.”
+When members of a McKinsey team go into a client, they
+carry change with them. Some at the client will welcome the
+bringers of change as white knights riding to the rescue; others
+will see McKinsey as an invading army to either flee or drive out,
+depending on their power in the organization. As one former
+McKinsey-ite put it, “It was a rare engagement when there
+wasn’t at least one sector of the client organization that did not
+want us there and did not want us to come up with a real answer.”
+In most cases, when senior management brings in McKinsey,
+enough players in the organization will cooperate willingly and
+McKinsey can be effective. A few malcontents may grumble or
+even cause trouble, but in the end they will be either converted to
+McKinsey’s cause or bypassed. Sometimes, however, one powerful
+faction in an organization calls in McKinsey against the wishes
+of another powerful faction. That’s when trouble arises, as we
+found out.
+You have several options to pick from when confronted by a
+problem that seems too difficult to solve.
+Redefine the problem. You can tell your client that the problem
+is not X, it’s Y. This is especially useful when you know that
+solving Y will add a lot of value, where as trying to wrestle with
+X would cost a lot of time and resources for little result. If you
+make this switch very early on, you show great business judgment;
+if you do it after several weeks” work, you risk being accused of
+a cop out.
